@@ -1,4 +1,4 @@
-package Program1;
+
 public class Bank_Transaction {
     String account_name;
     String accountholder_name;
